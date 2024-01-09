@@ -62,9 +62,9 @@ I am confident that we can overcome the challenges that we face and develop a su
 
 ## Week 3 (04/11/2023)
 [Group]
-- Progress:
-- &nbsp;Target audience: Elderly who are illiterate
-- &nbsp;OCBC Features: 2nd party guarantor (Main Focus)
+Progress:
+- Target audience: Elderly who are illiterate
+- OCBC Features: 2nd party guarantor (Main Focus)
 - SQL Database has been created
 
 [Person]
@@ -93,3 +93,21 @@ My feelings: Hopeful, satisfied, Anxious
 [Reflection]
 
 In our group project aimed at creating a banking application for the illiterate elderly, we've made commendable progress by completing the wireframe and focusing on a key feature, the 2nd Party Guarantor. As a team, we're on track with our tasks, showcasing our strong grasp of both the main and basic features of the application. However, we've recognized a need for improved communication among team members. More consistent and frequent updates could streamline our workflow and enhance our collaborative efforts. On a personal note, I feel a mix of emotions: hopefulness and satisfaction due to our on-schedule progress, coupled with anxiety about the challenges ahead. Enhancing our communication strategy will be crucial in mitigating these concerns and maintaining our project's momentum.
+
+## Week 5 (17/11/2023)
+[Group]
+Progress:
+- Target audience: Elderly who are illiterate
+- OCBC Feature: 2nd Party Guarantor
+- Add/Remove Guarantor
+- Edit Profile
+
+[Individual]
+What went right: Each of our groupmates still have a clear understanding of the goal and tasks of the project. Furthermore, we each have a role or part we have to complete so that the project will be more efficient when completing.
+What went wrong: We need to have better efficiency
+What could be better: Have more communication with one another by updating the group chat daily as to what we have completed so far and the progress.
+My feelings: Anxious, Happy.
+
+[Reflection]
+
+Reflecting on our group's progress, we have made notable strides in developing a banking application for illiterate elderly individuals, focusing on key features like the 2nd Party Guarantor, and functionalities for adding/removing guarantors and editing profiles. A strength of our team lies in the clarity of our goal and the distribution of specific roles, enhancing the efficiency of our project execution. However, a challenge we face is the need for greater overall efficiency. Improving this aspect could involve enhancing our communication strategies, such as providing daily updates in our group chat to keep everyone informed of our individual progress and collective milestones. Personally, I find myself feeling a mix of anxiety and happiness – anxiety about the challenges we need to overcome, especially in terms of efficiency, and happiness about the coherent understanding and progress we've made so far in our project. Moving forward, fostering more open and consistent communication will be key to improving our efficiency and maintaining the positive momentum we have established.
