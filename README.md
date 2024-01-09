@@ -59,3 +59,20 @@ My feelings
 I am both worried and excited about this project. I am worried about the challenges that we will face, but I am also excited about the opportunity to make a real difference in the lives of the elderly who are not able to read or write.
 
 I am confident that we can overcome the challenges that we face and develop a successful solution. I am looking forward to working with my team members to make this project a success.
+
+## Week 3 (04/11/2023)
+[Group]
+- Progress:
+- &nbsp;Target audience: Elderly who are illiterate
+- &nbsp;OCBC Features: 2nd party guarantor (Main Focus)
+- SQL Database has been created
+
+[Person]
+- What went right: We have created the basic outframe for the website which consist of the front-end design, database, as well as the back-end models.
+- What went wrong: We need to be more focused and have increased efficiency for our project development
+- What could have been done better: We could have better communication with one another, for example, update each other more frequently to keep one another on track and updated.
+- My feelings: Hopeful, stress, nervous
+
+[Reflection]
+
+Reflecting on our project aimed at assisting illiterate elderly individuals, we've made significant strides, notably in developing a functional SQL database and outlining our website's basic framework. However, challenges in maintaining focus and project efficiency have surfaced, underscoring the need for better communication and structured management. Personally, I find myself oscillating between hopefulness over our progress and a mix of stress and nervousness due to the obstacles encountered and the gravity of our mission. As we proceed, enhancing team communication and focusing on efficient management are imperative, ensuring we remain aligned with our goal of creating an accessible, user-friendly platform for our target audience.
