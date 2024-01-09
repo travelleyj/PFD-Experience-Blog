@@ -76,3 +76,20 @@ I am confident that we can overcome the challenges that we face and develop a su
 [Reflection]
 
 Reflecting on our project aimed at assisting illiterate elderly individuals, we've made significant strides, notably in developing a functional SQL database and outlining our website's basic framework. However, challenges in maintaining focus and project efficiency have surfaced, underscoring the need for better communication and structured management. Personally, I find myself oscillating between hopefulness over our progress and a mix of stress and nervousness due to the obstacles encountered and the gravity of our mission. As we proceed, enhancing team communication and focusing on efficient management are imperative, ensuring we remain aligned with our goal of creating an accessible, user-friendly platform for our target audience.
+
+## Week 4 (11/11/2023)
+[Group]
+Progress:
+- Target Audience: Elderly who are illiterate
+-  OCBC Features: 2nd Part Guarantor
+-  Wireframe of the project has been completed
+
+[Individual]
+What went right: We are on schedule with our tasks which means that we have great understanding of our main feature as well as the other basic features of a banking application.
+What went wrong: We need to have better communication with each other.
+What could be better: Making constant or more frequent updates with one another.
+My feelings: Hopeful, satisfied, Anxious
+
+[Reflection]
+
+In our group project aimed at creating a banking application for the illiterate elderly, we've made commendable progress by completing the wireframe and focusing on a key feature, the 2nd Party Guarantor. As a team, we're on track with our tasks, showcasing our strong grasp of both the main and basic features of the application. However, we've recognized a need for improved communication among team members. More consistent and frequent updates could streamline our workflow and enhance our collaborative efforts. On a personal note, I feel a mix of emotions: hopefulness and satisfaction due to our on-schedule progress, coupled with anxiety about the challenges ahead. Enhancing our communication strategy will be crucial in mitigating these concerns and maintaining our project's momentum.
