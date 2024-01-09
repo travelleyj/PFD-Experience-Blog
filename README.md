@@ -111,3 +111,18 @@ My feelings: Anxious, Happy.
 [Reflection]
 
 Reflecting on our group's progress, we have made notable strides in developing a banking application for illiterate elderly individuals, focusing on key features like the 2nd Party Guarantor, and functionalities for adding/removing guarantors and editing profiles. A strength of our team lies in the clarity of our goal and the distribution of specific roles, enhancing the efficiency of our project execution. However, a challenge we face is the need for greater overall efficiency. Improving this aspect could involve enhancing our communication strategies, such as providing daily updates in our group chat to keep everyone informed of our individual progress and collective milestones. Personally, I find myself feeling a mix of anxiety and happiness – anxiety about the challenges we need to overcome, especially in terms of efficiency, and happiness about the coherent understanding and progress we've made so far in our project. Moving forward, fostering more open and consistent communication will be key to improving our efficiency and maintaining the positive momentum we have established.
+
+## Week 12 (02/01/2024)
+[Group]
+- Target audience: Elderly who are illiterate
+- Discussion of new features to be added into the project
+- Research on features that can be added with the team
+
+[Individual]
+What went right: Everyone were proactive and contributing to the discussion by giving ideas and doing their own research which was then discussed to one another.
+What went wrong: There were no confirmed features to be added yet.
+What could be better: We need to take into consideration on the limitations of the target audience. Set clear goals and be more decisive in the features that we might be adding.
+My feelings: Anxious, Happy
+
+[Reflection]
+Reflecting on our recent team efforts in developing a project for the illiterate elderly, I'm encouraged by the proactive engagement and collaboration displayed by each team member. Our discussions about potential new features and the thorough research conducted individually have fostered a rich environment of ideas and possibilities. However, despite these productive conversations, we have yet to finalize any new features for inclusion in our project. This highlights a need for greater focus on the limitations and specific needs of our target audience, as well as the establishment of clearer goals and more decisive action regarding feature selection. Personally, I'm experiencing a mix of emotions: happiness due to the enthusiastic involvement of the team and anxiety over our indecision and the need to refine our approach. Moving forward, prioritizing the practical constraints and needs of our elderly audience will be crucial in making more definitive and effective decisions about our project's features.
