@@ -126,3 +126,19 @@ My feelings: Anxious, Happy
 
 [Reflection]
 Reflecting on our recent team efforts in developing a project for the illiterate elderly, I'm encouraged by the proactive engagement and collaboration displayed by each team member. Our discussions about potential new features and the thorough research conducted individually have fostered a rich environment of ideas and possibilities. However, despite these productive conversations, we have yet to finalize any new features for inclusion in our project. This highlights a need for greater focus on the limitations and specific needs of our target audience, as well as the establishment of clearer goals and more decisive action regarding feature selection. Personally, I'm experiencing a mix of emotions: happiness due to the enthusiastic involvement of the team and anxiety over our indecision and the need to refine our approach. Moving forward, prioritizing the practical constraints and needs of our elderly audience will be crucial in making more definitive and effective decisions about our project's features.
+
+## Week 13 (09/01/2024)
+[Group]
+- Target audience: Elderly who are illiterate
+- Worked on features for the website
+- Created some features
+- Updated Trello board
+  
+[Individual]
+What went right: Everyone was contributing in doing of work, and communication between one another improved.
+What went wrong: We could not find a specific time slot to work with one another
+What could be done better: On my part, I feel that I could have done even better at communicating my ideas to the team.
+
+[Reflection]
+In our recent project, aimed at creating a website for the elderly who are illiterate, I was part of a dedicated team where each member, including myself, contributed significantly. My role involved developing specific features and updating our Trello board to track our progress. The project's highlight was the excellent team contribution and the noticeable improvement in our communication, which was vital for our collaborative success. However, finding a common time for all team members to work together was a challenge, occasionally hindering our efficiency. Reflecting on my personal performance, I realize that while I was active in task completion, I could have improved in communicating my ideas more effectively. This realization is crucial for me, as better communication not only enhances individual contribution but also strengthens team dynamics. Going forward, I am motivated to refine this skill, ensuring that my contributions are not only task-oriented but also facilitate smoother collaboration and idea exchange within the team. This project was a valuable learning experience, underscoring the importance of teamwork and effective communication in achieving shared goals.
+
