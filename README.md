@@ -176,7 +176,7 @@ Individually, I am proud of the progress we've achieved and the obstacles we've 
 - Worked on features for the website
 - Updated Trello board
 
-[Individual
+[Individual]
 What went right: Making good progress for this week as well.
 What went wrong: Managed to get my features working.
 What could be better: Communication could be better in the team, as well as time management again, however, we successfully built the website as a team.
