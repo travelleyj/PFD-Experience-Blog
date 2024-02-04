@@ -143,3 +143,41 @@ My feelings: Happy and Excited
 [Reflection]
 In our recent project, aimed at creating a website for the elderly who are illiterate, I was part of a dedicated team where each member, including myself, contributed significantly. My role involved developing specific features and updating our Trello board to track our progress. The project's highlight was the excellent team contribution and the noticeable improvement in our communication, which was vital for our collaborative success. However, finding a common time for all team members to work together was a challenge, occasionally hindering our efficiency. Reflecting on my personal performance, I realize that while I was active in task completion, I could have improved in communicating my ideas more effectively. This realization is crucial for me, as better communication not only enhances individual contribution but also strengthens team dynamics. Going forward, I am motivated to refine this skill, ensuring that my contributions are not only task-oriented but also facilitate smoother collaboration and idea exchange within the team. This project was a valuable learning experience, underscoring the importance of teamwork and effective communication in achieving shared goals.
 
+## Week 14 (16/01/2024)
+[Group]
+- Target audience: Elderly who are illiterate
+- Worked on features for the website
+- Created some features
+- Updated Trello board
+
+[Individual]
+What went right: I believe that good progress was made, and the team attended meetings on time.
+What went wrong: Encountered some issues with the code, however, managed to fix them. :)
+What could be done better: Improve communication, and manage time better.
+My feelings: Happy and Eager to finish this project
+
+[Reflection]
+Group Reflection
+Target Audience: The project aimed at creating an accessible website for the elderly who are illiterate, a demographic that often faces challenges in navigating digital spaces.
+Work Contributions: Our team focused on developing features that would enhance user experience, keeping in mind the specific needs of our target audience. We successfully implemented several key features and regularly updated our progress on the Trello board to ensure everyone was aligned and aware of the project's status.
+Team Dynamics: The team demonstrated excellent punctuality, with all members attending meetings on time, which facilitated smooth progress and efficient collaboration.
+
+Individual Reflection
+Successes: I feel that the project made significant strides forward, thanks in part to the dedication and timely contributions of every team member. Despite encountering some technical hurdles, we managed to overcome these challenges, which is a testament to our problem-solving abilities and resilience.
+Challenges: One of the main obstacles was dealing with unexpected issues in the code. However, these were addressed and resolved, showcasing our ability to adapt and learn on the fly.
+Areas for Improvement: On reflection, I believe that there is room for improvement in our communication practices and time management. Enhancing these areas could lead to even more efficient project execution and reduce the occurrence of issues.
+Personal Sentiments: On a personal note, I am happy with the progress we've made and feel eager to see the project through to completion. The journey has been rewarding, and I am optimistic about our ability to deliver a product that will truly benefit our target audience.
+
+Individually, I am proud of the progress we've achieved and the obstacles we've overcome. The experience has been enriching, filled with learning opportunities and moments of success. While we faced challenges, particularly in the realms of coding and project management, our commitment to resolving these issues and moving forward has been unwavering. Looking ahead, there are areas where we can improve, such as enhancing our communication strategies and refining our approach to time management. These improvements could streamline our processes and minimize potential setbacks, enabling us to deliver our project more efficiently. In conclusion, this project has been a journey of growth, collaboration, and discovery. I am filled with a sense of accomplishment and an eagerness to apply what we've learned to bring this project to a successful completion. It's been a privilege to work alongside my team members on a project that promises to make a significant difference in the lives of our intended audience.
+
+
+
+
+
+
+
+
+
+
+
+
