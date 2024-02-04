@@ -170,6 +170,20 @@ Personal Sentiments: On a personal note, I am happy with the progress we've made
 
 Individually, I am proud of the progress we've achieved and the obstacles we've overcome. The experience has been enriching, filled with learning opportunities and moments of success. While we faced challenges, particularly in the realms of coding and project management, our commitment to resolving these issues and moving forward has been unwavering. Looking ahead, there are areas where we can improve, such as enhancing our communication strategies and refining our approach to time management. These improvements could streamline our processes and minimize potential setbacks, enabling us to deliver our project more efficiently. In conclusion, this project has been a journey of growth, collaboration, and discovery. I am filled with a sense of accomplishment and an eagerness to apply what we've learned to bring this project to a successful completion. It's been a privilege to work alongside my team members on a project that promises to make a significant difference in the lives of our intended audience.
 
+## Week 15 (23/01/2024)
+[Group]
+- Target audience: Elderly who are illiterate
+- Worked on features for the website
+- Updated Trello board
+
+[Individual
+What went right: Making good progress for this week as well.
+What went wrong: Managed to get my features working.
+What could be better: Communication could be better in the team, as well as time management again, however, we successfully built the website as a team.
+My feelings: Glad and Relief
+
+[Reflection]
+This week, our team continued to make significant strides in developing a website tailored for the elderly who are illiterate, focusing on enhancing features that improve accessibility and ease of use. As an individual, I successfully implemented my assigned features, contributing to the overall progress. Despite facing challenges in communication and time management within the team, we managed to overcome these obstacles and successfully build the website. This achievement brings a sense of gladness and relief, reflecting our ability to work together effectively and adapt to challenges. The experience underscores the importance of continuous improvement in team dynamics and project management to achieve our goals.
 
 
 
