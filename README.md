@@ -185,13 +185,31 @@ My feelings: Glad and Relief
 [Reflection]
 This week, our team continued to make significant strides in developing a website tailored for the elderly who are illiterate, focusing on enhancing features that improve accessibility and ease of use. As an individual, I successfully implemented my assigned features, contributing to the overall progress. Despite facing challenges in communication and time management within the team, we managed to overcome these obstacles and successfully build the website. This achievement brings a sense of gladness and relief, reflecting our ability to work together effectively and adapt to challenges. The experience underscores the importance of continuous improvement in team dynamics and project management to achieve our goals.
 
+## Week 16 (30/01/2024)
+[Group]
+- Target audience: Elderly who are slight illiterate
+- Successfully imbedded videos onto the websites
 
+[Individual]
+What went right: Successfully implemented tutorial feature, good communication between team members.
+What went wrong: Faced some difficulties integrating the team members' work together.
+What could be better: Improving on communication so that there wouldn't be any delays when doing tasks.
+My Feelings: Glad and Hopeful
 
+[Reflection]
+Reflecting on our recent progress on the project, I'm pleased with our success in catering to the needs of our target audience, the elderly who are slightly illiterate, by successfully embedding videos onto the website. Individually, I'm proud of implementing the tutorial feature and fostering effective communication within the team. However, challenges arose when integrating our individual contributions, highlighting the need for smoother collaboration processes. Moving forward, enhancing communication channels to minimize task delays will be crucial. Despite the hurdles, I'm optimistic about our progress and hopeful for even better outcomes in the future.
 
+## Week 17 (06/02/2024)
+[Group]
+- Target Audience: Elderly who are slightly illiterate
+- Contribute to ideas as to how to further improve our website's visuals.
 
+[Individual]
+What went right: Successfully finishing the website and meeting the goal of our project which was to make online banking more accessible for our target audience. The team did an excellent job in handling issues that has arised and made it in time for the submission.
+What went wrong: nothing. everything worked out in the end. 
+What could be better: Communication could've been better but everything is fine as there aren't any major setbacks and everyone did their parts.
+My feelings: Joyous and Glad
 
+[Reflection]
 
-
-
-
-
+Reflecting on our recent endeavor, it's immensely gratifying to see the successful culmination of our efforts in completing the website aimed at making online banking more accessible for our target audience of slightly illiterate elderly individuals. The team's ability to address and resolve issues as they arose was commendable, ensuring that we met our project goals and deadlines without any major setbacks. While communication could have been more robust, the absence of significant obstacles underscores the collective dedication and effective execution of tasks by all team members. As I look back on this experience, feelings of joy and satisfaction prevail, buoyed by the knowledge that we've made meaningful strides towards enhancing accessibility and inclusivity in digital banking for our intended demographic.
